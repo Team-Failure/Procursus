@@ -2,8 +2,7 @@
 Community involvement is one of the main goals of this project, so we're glad you'd like to make a contribution. There are a few requirements, but they shouldn't be too unreasonable.
 
 If you have any questions, or would like to contact team members, you can either
-- Email the [Procursus Team](mailto:support@procurs.us) about your issue/concern, or..
-- Join [Procursus' Discord Server](https://diatr.us/discord), where most team members are capable of providing support and answering questions
+- Email the [Team Failure](mailto:teamfailure60@gmail.com) about your issue/concern, where most team members are capable of providing support and answering questions
 
 ## Submitting Issues
 Any issue with the build system or a package on the APT repo can be submitted as a Github issue, and will be tracked as soon as possible.
